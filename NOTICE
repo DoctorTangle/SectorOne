@@ -1,0 +1,9 @@
+SectorOne SDK is derived from the Trader Joe SDK (joe-sdks).
+
+Upstream: https://github.com/lfj-gg/joe-sdks
+License: MIT
+
+Modifications by SectorOne / DoctorTangle:
+- Base mainnet only (chainId 8453)
+- SectorOne deployed contract addresses
+- Package rename: @sectorone/sdk-core, @sectorone/sdk, @sectorone/sdk-v2
