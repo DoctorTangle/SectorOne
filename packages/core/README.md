@@ -2,6 +2,8 @@
 
 Core types and utilities for the [SectorOne SDK](https://github.com/DoctorTangle/SectorOne) — **Base mainnet only** (chainId `8453`).
 
+**Docs:** [Getting started](../../docs/getting-started.md) · [Architecture](../../docs/architecture.md)
+
 ## Install
 
 ```sh

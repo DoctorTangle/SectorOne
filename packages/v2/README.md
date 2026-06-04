@@ -2,6 +2,8 @@
 
 Liquidity Book (DLMM) SDK for [SectorOne](https://sectorone.xyz) on **Base** (chainId `8453`).
 
+**Docs:** [AGENTS.md](../../AGENTS.md) · [Cookbook](../../docs/cookbook.md) · [Examples](../../examples/)
+
 Includes `PairV2`, `Bin`, `TradeV2`, `RouteV2`, contract ABIs, and helpers for LB v2.0 and v2.2.
 
 ## Install

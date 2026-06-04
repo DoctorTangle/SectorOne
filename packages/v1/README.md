@@ -2,6 +2,8 @@
 
 Uniswap V2-style routing (factory, router, pairs) for [SectorOne](https://sectorone.xyz) on **Base** (chainId `8453`).
 
+**Docs:** [Contracts](../../docs/contracts.md) · [Cookbook §9](../../docs/cookbook.md#9-v2-style-pair-address-constant-product)
+
 ## Install
 
 ```sh
